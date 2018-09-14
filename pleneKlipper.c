@@ -20,18 +20,10 @@ houseArea = houseLength*houseWidth;
 //plainArea
 plainArea = yardArea - houseArea;
 
-printf("Plaene areal: %lf \n" plainArea);
+printf("Plaene areal: %lf \n", plainArea);
 
 sekunderAntal = plainArea/2;
-printf("sekunder til klipning:  %lf", sekunderAntal)
+printf("sekunder til klipning:  %lf", sekunderAntal);
 
-
-
-
-
-    
-    
-    
-
- return EXIT_SUCCES;   
+  
 }
